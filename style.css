@@ -41,9 +41,11 @@ input {
 input::placeholder {
   color: #fff;
 }
-input[type="text"] {
-  direction: rtl; /* makes the overflow go from right to left */
-}
+
+/*input[type="text"] {
+  direction: rtl; 
+
+}*/
 button {
   border: none;
   outline: none;
